@@ -22,7 +22,7 @@ We used a dataset of 1,500 images for modeling:
   * Accuracy of 94.12%
 
 
-* Machine Learning [Application model]((https://github.com/ezinne359/AI4D-Poultry-Dataset/blob/main/Codes_Final/ML_App_image_classification.ipynb) for image classification of poultry diseases using TensorFlow Lite Model Maker.
+* Machine Learning [Application model](https://github.com/ezinne359/AI4D-Poultry-Dataset/blob/main/Codes_Final/ML_App_image_classification.ipynb) for image classification of poultry diseases using TensorFlow Lite Model Maker.
    * Used MobileNet architecture for training
    * Accuracy of 96.8% training and 96.67% on testing
    * MobileNet V1 had same accuracy as MobileNet V2 on test dataset
@@ -34,7 +34,7 @@ Android Studio 4.1.3 for TensorFlow Lite model deployment:
 * Built the project and produced the [APK file](https://github.com/ezinne359/AI4D-Poultry-Dataset/blob/main/img/app-debug.apk) for installation on Android smartphones.
 * The final Android Project can be found [here](https://github.com/ezinne359/AI4D-Poultry-Dataset/blob/main/TFLite_PoultryApp).
 
-![inference](https://github.com/ezinne359/AI4D-Poultry-Dataset/img/Inference.png)
+![inference](https://github.com/ezinne359/AI4D-Poultry-Dataset/blob/main/img/Inference.png)
 ### References
 [Image Classification](https://www.tensorflow.org/tutorials/images/classification)
 
